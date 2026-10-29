@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head><title>HIKOU Game News</title></head>
+  <body>
+    <outline text="Japanese Game News" title="Japanese Game News">
+      <outline type="rss" text="4Gamer" xmlUrl="https://www.4gamer.net/rss/index.xml" />
+      <outline type="rss" text="GameSpark" xmlUrl="https://www.gamespark.jp/rss20/index.rdf" />
+      <outline type="rss" text="AUTOMATON" xmlUrl="https://automaton-media.com/feed/" />
+    </outline>
+  </body>
+</opml>
